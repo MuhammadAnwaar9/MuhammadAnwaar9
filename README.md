@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anwaar</h1>
 <h3 align="center">Front-End Mobile Application Developer specializing in React Native, with expertise in building usercentric, scalable, and high-performance mobile applications designed with clean architecture. Committed to delivering exceptional user experiences through innovative and efficient solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadanwaar9" alt="muhammadanwaar9" /></a> </p>
-
 - 🔭 I’m currently working on **React Native Projects**
 
 - 🌱 I’m currently learning **TypeScript**
