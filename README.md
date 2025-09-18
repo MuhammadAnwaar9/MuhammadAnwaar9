@@ -53,15 +53,6 @@ Front-End Mobile Application Developer (React Native) — I build user-centric, 
 />
 </p>
 
-<p align="center">
-  <!-- Streak (use a reliable endpoint) -->
-  <img
-    src="https://streak-stats.demolab.com?user=muhammadanwaar9&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-    height="200"
-/>
-  <!-- If the above ever fails, swap to: https://streak-stats.vercel.app?user=muhammadanwaar9 or https://github-readme-streak-stats-eight.vercel.app/?user=muhammadanwaar9 -->
-</p>
 
 <!-- Optional: overall stats card -->
 <p align="center">
