@@ -53,7 +53,13 @@ Front-End Mobile Application Developer (React Native) — I build user-centric, 
 />
 </p>
 
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadanwaar9&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
 <!-- Optional: overall stats card -->
 <p align="center">
   <img
