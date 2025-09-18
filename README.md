@@ -45,12 +45,21 @@ Front-End Mobile Application Developer (React Native) — I build user-centric, 
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanwaar9&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-    height="165"
-/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanwaar9&layout=compact&langs_count=8&theme=github_dark&hide_border=true" 
+    alt="Top Languages" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhammadanwaar9&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="GitHub Stats" 
+    height="165" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=muhammadanwaar9&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak" 
+    height="165" 
+  />
 </p>
 
 ### 🔥 GitHub Streak
